@@ -1,2 +1,11 @@
-# bittrush-ico
-bittrush ICO Smart Contract
+# bittrush ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project bittrush
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
